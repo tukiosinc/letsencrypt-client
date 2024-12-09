@@ -1,5 +1,5 @@
 {
-  "name": "afosto/yaac",
+  "name": "tukiosinc/letsencrypt-client",
   "description": "Yet Another ACME client: a decoupled LetsEncrypt client",
   "type": "package",
   "keywords": [
