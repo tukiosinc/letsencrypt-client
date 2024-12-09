@@ -11,6 +11,7 @@
     "encrypt",
     "letsencrypt"
   ],
+  "version": "1.5.3",
   "homepage": "https://afosto.com",
   "license": "Apache-2.0",
   "authors": [
@@ -27,7 +28,6 @@
   "require": {
     "guzzlehttp/guzzle": "^6.3|^7.0",
     "league/flysystem": "^1.0|^3.0",
-
     "ext-openssl": "*",
     "ext-json": "*"
   }
